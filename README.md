@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 - 🧠 I love turning data into actionable insights and building smart, scalable solutions.
-- 💻 Tech: **Python**, **C++**, **Machine Learning**, **JavaScript**, **SQL**, **MLOps**, **DevOps**
+- 💻 Technologies: **Python**, **C++/C**, **JavaScript**, **Java**, **R**, **ML/DL**, **LLMs**, **SQL**, **MLOps**, **DevOps**
 - 📈 Currently building:  
   [**STOCKNAVIGATOR**](https://github.com/edbertw/STOCKNAVIGATOR) — An AI-powered intelligent platform for stock analysis, prediction & navigation.
 
