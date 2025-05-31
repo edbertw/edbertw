@@ -26,6 +26,7 @@
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/edbertwidjaja/)
 - Check out my projects here on [GitHub](https://github.com/edbertw)
 - Contact me on [Email](edbertwid88@gmail.com)
+- Check out my [Website](personal-website-six-xi-57.vercel.app)
 ---
 
 > “Stay curious, keep building, and never stop learning.” 🚀
